@@ -1,5 +1,7 @@
 # Dachlast Open Data — Dachzelte, Dachboxen, Dachträger und Fahrzeugmarkisen
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21798284.svg)](https://doi.org/10.5281/zenodo.21798284)
+
 Offene Datensätze zum deutschen Markt für Dachaufbauten, erhoben von [dachlast.de](https://dachlast.de/).
 Vier Datensätze, jede Zeile mit Quell-URL, Lizenz **CC BY 4.0**.
 
@@ -50,6 +52,13 @@ Die Dateien werden mit `Access-Control-Allow-Origin: *` ausgeliefert und lassen 
 ## Lizenz und Zitation
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) — jede Nutzung erlaubt, auch kommerziell, einzige Bedingung ist die Namensnennung:
+
+```
+dachlast.de (2026): Dachlast Open Data. Version 1.0.0. Zenodo.
+https://doi.org/10.5281/zenodo.21798284 (CC BY 4.0)
+```
+
+Kurzform ohne DOI:
 
 ```
 Datenquelle: dachlast.de – https://dachlast.de/daten/ (CC BY 4.0)

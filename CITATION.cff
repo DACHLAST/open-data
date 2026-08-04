@@ -6,6 +6,9 @@ authors:
   - name: "dachlast.de"
     website: "https://dachlast.de/"
 url: "https://dachlast.de/daten/"
+repository-code: "https://github.com/DACHLAST/open-data"
+doi: "10.5281/zenodo.21798284"
+version: "1.0.0"
 license: CC-BY-4.0
 date-released: 2026-08-02
 keywords:

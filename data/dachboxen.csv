@@ -1,0 +1,158 @@
+marke,name,laenge_cm,breite_cm,hoehe_cm,volumen_l,gewicht_kg,max_zuladung_kg,quelle,confidence
+Atera,Atera Casar L,191,81,42,420,17.5,75,https://www.atera.de/products/dachbox-casar-l-lava-1-082293,high
+Atera,Atera Casar M,177,77,42,380,14.5,75,https://www.atera.de/products/dachbox-casar-l-lava-082291,high
+Atera,Atera Casar XL,215,90,43,540,20.5,75,https://www.atera.de/products/dachbox-casar-xl-lava-082295,high
+Atera,Atera Lunar 470,186,90,42,470,22.5,75,https://www.atera.de/products/dachbox-lunar-082297,high
+CRUZ,CRUZ Paddock 400,165,90,46,400,15.1,75,https://cruz-products.com/en/roof-boxes/4054-cruz-paddock-400n-glossy-black-.html,high
+CRUZ,CRUZ Paddock 470,186,90,46,470,16.5,75,https://cruz-products.com/en/roof-boxes/4056-cruz-paddock-470n-glossy-black-.html,high
+CRUZ,CRUZ Xtreme 450,195,78,39,450,23,50,https://bagazniki.pl/pl/p/Box-dachowy-CRUZ-Xtreme-450-Antracyt-Szybki-Montaz-85mm-Dwustronne-Otwieranie/11888,medium
+Farad,Farad Koral N20 480,190,80,40,480,14,75,https://www.traegerspezialist.de/Dachboxen/Dachboxen/Farad-Koral-Dachbox-Dachkoffer-Skibox-Gepaeckbox-N20-weiss-glaenzend/,medium
+Farad,Farad Marlin F3 400,160,80,40,400,13,75,https://www.faradworld.com/it/p/632-box-da-tetto-farad-marlin-nero-goffrato-400l/,high
+Farad,Farad Marlin F3 480,190,80,40,480,15,75,https://www.faradworld.com/it/p/628-box-da-tetto-farad-marlin-nero-goffrato-480l/,high
+Farad,Farad Marlin F3 680,210,100,42,680,21,75,https://www.faradworld.com/it/p/638-box-da-tetto-farad-marlin-nero-goffrato-680l/,high
+G3,G3 Absolute 480,193,74,37,390,13,75,https://www.g3spa.it/en/product/absolute-480-2/,high
+G3,G3 Krono 480,195,73.8,36,390,13,75,https://www.g3spa.it/en/product/krono-480-2/,high
+G3,G3 Spark 320,133.8,73,36,240,7,50,https://www.g3spa.it/en/product/spark-320-2/,high
+G3,G3 Spark 400,144,86,37.5,330,10,75,https://www.g3spa.it/en/product/spark-400/,high
+G3,G3 Spark 480,195,73.8,36,390,13,75,https://www.g3spa.it/en/product/spark-480/,high
+Hapro,Hapro Cruiser 10.8,226,94,43,600,27,75,https://vdlhapro.com/en/products/cruiser-10-8/,high
+Hapro,Hapro Nordic 10.8,226,94,32,460,23.5,75,https://vdlhapro.com/en/products/nordic-10-8/,high
+Hapro,Hapro Rider 4.4,145,95,42,370,13,75,https://vdlhapro.com/en/products/rider-4-4/,high
+Hapro,Hapro Rider 5.4,178,78,42,370,14,75,https://vdlhapro.com/en/products/rider-5-4/,high
+Hapro,Hapro Rider 6.4,192,82,42,410,17,75,https://vdlhapro.com/en/products/rider-6-4/,high
+Hapro,Hapro Roady 350,135,78,40,300,11,50,https://vdlhapro.com/producten/roady-350/,high
+Hapro,Hapro Traxer 4.6,148,97,42,370,15.5,75,https://vdlhapro.com/en/products/traxer-4-6/,high
+Hapro,Hapro Traxer 5.6,177,77,42,370,15,75,https://vdlhapro.com/en/products/traxer-5-6/,high
+Hapro,Hapro Traxer 6.2,193,65,42,320,15,75,https://vdlhapro.com/en/products/traxer-6-2/,high
+Hapro,Hapro Traxer 6.6,191,81,42,410,18,75,https://vdlhapro.com/en/products/traxer-6-6/,high
+Hapro,Hapro Traxer 8.6,215,90,43,530,21.5,75,https://vdlhapro.com/en/products/traxer-8-6/,high
+Hapro,Hapro Traxer 9.3,230,70,42,405,19,75,https://vdlhapro.com/en/products/traxer-9-3/,high
+Hapro,Hapro Trivor 440,192,82,45,440,20,75,https://vdlhapro.com/en/products/trivor-440/,high
+Hapro,Hapro Trivor 560,216,90,46,560,23.5,75,https://vdlhapro.com/en/products/trivor-560/,high
+Hapro,Hapro Trivor 640,221,94,47,640,25,75,https://vdlhapro.com/en/products/trivor-640/,high
+Hapro,Hapro Verno,193,83,42,430,18,75,https://vdlhapro.com/en/products/verno/,high
+Hapro,Hapro Zenith 6.6,191,80,37,360,19,75,https://vdlhapro.com/producten/zenith-8-6/,high
+Hapro,Hapro Zenith 8.6,215,88,37,440,23.5,75,https://vdlhapro.com/producten/zenith-8-6/,high
+Junior,Junior Altro 460,185,80,41,460,18,75,https://www.kupplung.de/dachbox-junior-altro-460-schwarz-matt-152576.html,medium
+Junior,Junior Altro 500,200,90,41,500,22,75,https://www.dachbox.de/dachbox-junior-altro-500-schwarz-glaenzend_138448,medium
+Junior,Junior PRE 480,198,78,40,480,18,50,https://www.dachbox.de/dachbox-junior-pre-480-grau-glaenzend_138391,medium
+Junior,Junior PRE 530,180,94,39,530,19,75,https://www.ebay.de/p/6033524772,medium
+Junior,Junior Xtreme 400,195,78,34,400,21,50,https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/zubehoer/dachboxen/vdp-xtreme-400-id-4942/,medium
+Junior,Junior Xtreme 450,195,78,39,450,19,50,https://www.transportsysteme24.de/dachboxen/Junior-Dachbox-Xtreme-450-schwarz-matt.html,medium
+Junior,Junior Xtreme 500,225,83,39,500,19,50,https://www.kupplung.at/dachbox-junior-xtreme-500-schwarz-matt-152590.html,medium
+Junior,Junior Xtreme 600,195,95,44,600,22,50,https://www.transportsysteme24.de/dachboxen/Junior-Dachbox-Xtreme-600-schwarz-matt.html,medium
+Kamei,Kamei Base 400,190,75,43,400,15,50,https://www.kamei.de/produkte/details/08140001-dachbox-base400-schwarz-matt,high
+Kamei,Kamei Fosco 420,195,80,40,420,18,75,https://www.kamei.de/produkte/details/08155101-dachbox-fosco-420-schwarz-matt,high
+Kamei,Kamei Fosco 540,216,94,44,540,22,75,https://www.kamei.de/produkte/details/08154101-dachbox-fosco-540-schwarz-matt,high
+Kamei,Kamei Husky 300,220,60,36,300,14,50,https://www.kamei.de/produkte/details/08132201-dachbox-husky-300-schwarz-matt,high
+Kamei,Kamei Husky 330,190,75,38,330,13,50,https://www.kamei.de/produkte/details/08144401-dachbox-husky-330-schwarz-matt,high
+Kamei,Kamei Husky 420,165,88,44,420,15,75,https://www.kamei.de/produkte/details/08142001-dachbox-husky-420-schwarz-matt,high
+Kamei,Kamei Husky 510,200,90,44,510,18,75,https://www.kamei.de/produkte/details/08144801-dachbox-husky-510-schwarz-matt,high
+Kamei,Kamei Husky 620,232,90,44,620,21,75,https://www.kamei.de/produkte/details/08162001-dachbox-husky-620-schwarz-matt,high
+Kamei,Kamei Oyster 450,206,95,36,450,21,75,https://www.kamei.de/produkte/details/08139121-dachbox-oyster-450-schwarz-hochglaenzend,high
+LEVUP,LEVUP Cube 470,190,78,36,470,15,75,https://www.bertelshofer.com/dachbox/levup-dachbox-cube-470-schwarz-matt-355966-bs-14.html,medium
+LEVUP,LEVUP Space 330,136,78,39.5,330,10,75,https://www.bertelshofer.com/dachbox/levup-dachbox-space-330-schwarz-glaenzend-355661-bs-14.html,medium
+LEVUP,LEVUP Space 430 Duo,190,78,39.5,430,15,75,https://www.bertelshofer.com/dachbox/levup-dachbox-space-430-duo-schwarz-glaenzend-355722-bs-14.html,medium
+LEVUP,LEVUP Space 530 Duo,201,89,41,530,17,75,https://www.transportsysteme24.de/dachbox/levup-dachbox-space-530-duo-schwarz-glaenzend-t24355783-ts24-14.html,medium
+LEVUP,LEVUP Space 630 Duo,201,89,46,630,19,75,https://www.bertelshofer.com/dachbox/levup-dachbox-space-630-duo-schwarz-glaenzend-355844-bs-14.html,medium
+Menabo,Menabo Diamond 450,163,90.7,36,450,14.2,75,https://d1blekj7w4kc3j.cloudfront.net/files/catalogue/products/Data-Sheet-Menabo-Diamond-Roof-Box.pdf,high
+Menabo,Menabo Diamond 500,209,79,36.6,500,16.4,75,https://d1blekj7w4kc3j.cloudfront.net/files/catalogue/products/Data-Sheet-Menabo-Diamond-Roof-Box.pdf,high
+Menabo,Menabo Mania 320,137,79,36,320,8.2,50,https://menabo.com.gr/wp-content/uploads/2024/03/MANIA_320_data_sheet.pdf,high
+Menabo,Menabo Mania 400,164,79,36,400,15,75,https://menabo.com.gr/wp-content/uploads/2024/03/MANIA_400_460_data_sheet.pdf,high
+Menabo,Menabo Mania 460,195,79,36,460,17,75,https://menabo.com.gr/wp-content/uploads/2024/03/MANIA_400_460_data_sheet.pdf,high
+Menabo,Menabo Mania 580,225,89,36,580,20,75,https://spcshop.ch/en/products/menabo-dachbox-mania-580-schwarz-2250x360x890mm-dachbox-mania-580-schwarz,medium
+Modula,Modula Beluga XL 460,156,90,45,460,,75,https://www.modulacs.com/en/prodotti/roof-boxes/beluga/,high
+Modula,Modula Ciao 310,126,78,35,310,,75,https://www.modulacs.com/en/prodotti/roof-boxes/ciao/,high
+Modula,Modula Ciao 340,140,80,44,340,,75,https://www.modulacs.com/en/prodotti/roof-boxes/ciao/,high
+Modula,Modula Ciao 430,175,80,44,430,12.4,75,https://www.modulacs.com/en/prodotti/roof-boxes/ciao/,medium
+Modula,Modula Ciao 580,220,92,44,580,,75,https://www.modulacs.com/en/prodotti/roof-boxes/ciao/,high
+Modula,Modula Evo 400,165,90,41,400,,75,https://www.modulacs.com/en/prodotti/roof-boxes/evo/,high
+Modula,Modula Evo 470,186,90,43,470,,75,https://www.modulacs.com/en/prodotti/roof-boxes/evo/,high
+Modula,Modula Evo 550,206,90,47,550,,75,https://www.modulacs.com/en/prodotti/roof-boxes/evo/,high
+Modula,Modula Falcon 400,165,90,39,400,,75,https://www.modulacs.com/en/prodotti/roof-boxes/falcon/,high
+Modula,Modula Falcon 470,186,90,40,470,,75,https://www.modulacs.com/en/prodotti/roof-boxes/falcon/,high
+Modula,Modula Falcon 550,206,90,43,550,,75,https://www.modulacs.com/en/prodotti/roof-boxes/falcon/,high
+Modula,Modula Wego 450,175,82,46,450,,75,https://www.modulacs.com/en/prodotti/roof-boxes/wego/,high
+Modula,Modula Wego 500,198,80,38,500,,75,https://www.modulacs.com/en/prodotti/roof-boxes/wego/,high
+Mont Blanc,Mont Blanc Cargo 450 (Vista),175,95,38,450,16,50,https://www.montblancgroup.com/en/products/cargo-roof-box-450-450-483000,medium
+Mont Blanc,Mont Blanc Vista 320,135,85,38,320,,50,https://www.amazon.de/Blanc-731906-Vista-Dachbox-silberschwarz/dp/B00492C4ZY,medium
+Neumann,Neumann Whale 130,130,90,38,320,,50,https://www.autoteile-immler.com/neumann-whale-130-dachbox-320-liter-anthrazit-matt,medium
+Neumann,Neumann Whale 200,200,90,45,520,18,50,https://www.traegerspezialist.de/Neumann-Dachbox-Whale-200-Carbon-schwarz-rechts-BW/,medium
+Neumann,Neumann Whale 227,227,52,33,270,,50,https://scarcentrum.cz/index.php?id_product=63&rewrite=neumann-whale-227-&controller=product,medium
+Norauto,Norauto Bermude 300,180,82,41,385,14.5,75,https://www.atu.de/produkt/norauto-bermude-300-dachbox-anthrazit-385-l-no2003,high
+Norauto,Norauto Bermude 400,192,82,42,421,17.5,75,https://www.atu.de/produkt/norauto-dachbox-bermude-400-anthrazit-421-l-no2004,high
+Norauto,Norauto Bermude 500,215,90,42,524,20.5,75,https://www.atu.de/produkt/norauto-dachbox-bermude-500-anthrazit-524-l-no2005,high
+Nordrive,Nordrive Box 330,135,78,37,330,11,75,https://autoricambisanmauro.it/en/product/roof-box-en/box-da-tetto-auto-nordrive-box-330-baule-in-abs-330-litri-singola-apertura-grigio-goffrato-135x78x37-cm/,medium
+Nordrive,Nordrive Box 430,190,78,36,430,14,75,https://www.king-truck.com/de/box-tett-nordrive-430.html,medium
+Nordrive,Nordrive Box 530,201,90,40,530,17,75,https://autoricambisanmauro.it/en/product/roof-box-en/box-da-tetto-auto-nordrive-box-530-baule-in-abs-530-litri-singola-apertura-nero-goffrato-201x90x40-cm/,medium
+Northline,Northline EcoSpace,190,67,36,310,15,75,https://www.einfach-campen.eu/dachbox-northline-ecospace-weiss-glaenzend,medium
+Northline,Northline Element,200,90,29,320,20,75,https://www.northline-de.com/p/649/northline-element-schwarz-glanzend,high
+Northline,Northline EvoSpace,190,67,36,310,15,75,https://www.northline-de.com/p/410/northline-evospacetef-black,high
+Northline,Northline RoadSpace,205,84,35,420,21,75,https://www.northline-de.com/p/632/northline-roadspace-black-2,high
+Northline,Northline Sunny L,175,91,45,430,18,75,https://www.northline-de.com/p/640/northline-sunny-l-schwarz,high
+Northline,Northline Sunny XL,205,84,46,480,21,75,https://www.northline-de.com/p/657/northline-sunny-xl-schwarz,high
+Northline,Northline Sunny XXL,230,96,47,630,25,75,https://www.northline-de.com/p/658/northline-sunny-xxl-schwarz,high
+Northline,Northline Tirol 420,205,84,35,420,20,75,https://www.northline-de.com/p/424/northline-tiroltef-schwarz,high
+Northline,Northline Yetti,131,72,36,300,10,50,https://www.northline-de.com/p/253/northline-yetti-black,high
+Packline,Packline FX-SUV,210,90,27,400,25,,https://www.mydachbox.com/packline-dachboxen/fx-suv/,medium
+Packline,Packline FX-SUV XL,222,90,29,460,29,,https://www.mydachbox.com/packline-dachboxen/fx-suv-xl/,medium
+Packline,Packline NX 215,215,90,31,450,24,,https://www.mydachbox.com/packline-dachboxen/nx-215/,medium
+Packline,Packline NX Premium DL,215,87,31,430,29,75,https://www.ahkautocar.de/15841-dachbox-packline-nx-premium-dl.html,medium
+Packline,Packline NX Summit,210,85,34,450,26,,https://www.packline-roofbox.com/products/roof-boxes/fiberglass-roof-boxes/packline-nx-summit/,high
+Packline,Packline NX Summit XL,220,90,34,460,30,,https://www.mydachbox.com/packline-dachboxen/nx-summit-xl/,medium
+Packline,Packline NX Summit XLT,220,90,34,500,30,,https://www.packline-roofbox.com/products/roof-boxes/fiberglass-roof-boxes/packline-nx-summit-xlt/,high
+Packline,Packline NX Traveller,225,87,37,560,21,,https://www.packline-roofbox.com/products/roof-boxes/plastic-roof-boxes/packline-nx-traveller/,high
+Taurus,Taurus Adventure 340,190,67,42,340,19,75,https://www.taurus.info.pl/boxy-i-kosze/boxy-dachowe/box-dachowy-taurus-adventure-340-czarny-polysk,medium
+Taurus,Taurus Adventure 480,205,82,46,480,26,75,https://www.taurus.info.pl/boxy-i-kosze/boxy-dachowe/box-dachowy-taurus-adventure-480-czarny-polysk,medium
+Taurus,Taurus Altro 460,185,78,41,460,18,75,https://www.taurus.info.pl/boxy-i-kosze/boxy-dachowe/box-dachowy-taurus-altro-460-czarny-matowy,high
+Taurus,Taurus Altro 500,200,90,41,500,,75,https://www.taurus.info.pl/boxy-i-kosze/boxy-dachowe/box-dachowy-taurus-altro-500-czarny-polysk,medium
+Taurus,Taurus Strike 440,199,84,35,440,,75,https://www.taurus.info.pl/boxy-i-kosze/boxy-dachowe/box-dachowy-taurus-strike-440-czarny-polysk,medium
+Taurus,Taurus Strike 480,199,84,41,480,24,75,https://www.taurus.info.pl/boxy-i-kosze/boxy-dachowe/box-dachowy-taurus-strike-480-czarny-polysk,high
+Taurus,Taurus Xtreme II 450,195,78,38,450,16,50,https://www.taurus.info.pl/boxy-i-kosze/boxy-dachowe/box-dachowy-taurus-xtreme-ii-450-czarny-matowy,high
+Taurus,Taurus Xtreme II 600,195,95,44,600,,50,https://www.taurus.info.pl/bagazniki-i-uchwyty/boxy-i-kosze/boxy-dachowe/box-dachowy-taurus-xtreme-ii-600-czarny-matowy,medium
+Thule,Thule Force 3 L,195,84.5,42.5,450,18.7,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-force-3-l-_-645700,high
+Thule,Thule Force 3 L Sport,191,63,42,300,14.8,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-force-3-l-sport-_-645600,high
+Thule,Thule Force 3 M,175,81,44,400,16.5,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-force-3-m-_-645200,high
+Thule,Thule Force 3 S,140,89.8,38,300,14.8,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-force-3-s-_-645100,high
+Thule,Thule Force 3 XL,215,87,43,500,22,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-force-3-xl-_-645800,high
+Thule,Thule Force 3 XXL Sport,232,70,44,450,18.7,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-force-3-xxl-sport-_-645300,high
+Thule,Thule Force XT L,190,84,46,450,18.7,75,https://www.autoteiledirekt.de/thule-13657278.html,medium
+Thule,Thule Force XT M,175,82,45.5,400,16.4,75,https://www.autoteiledirekt.de/thule-13657275.html,medium
+Thule,Thule Force XT Sport,190,63,42.5,300,14.7,75,https://www.autoteiledirekt.de/thule-13657277.html,medium
+Thule,Thule Force XT XL,210,86,44,500,21.3,75,https://www.autoteiledirekt.de/thule-13657279.html,medium
+Thule,Thule Motion 3 L,194,87,42,440,20,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-motion-3-l-_-639700,high
+Thule,Thule Motion 3 L Low,194,87,35,370,20,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-motion-3-l-low-_-639300,high
+Thule,Thule Motion 3 M,175,84,44,390,17,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-motion-3-m-_-639200,high
+Thule,Thule Motion 3 Sport,188,65,42,300,15,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-motion-3-sport-_-639600,high
+Thule,Thule Motion 3 XL,215,89,43,490,23,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-motion-3-xl-_-639800,high
+Thule,Thule Motion 3 XL Low,216,89,36,400,23,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-motion-3-xl-low-_-639400,high
+Thule,Thule Motion 3 XXL,232,92,46,590,25,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-motion-3-xxl-_-639900,high
+Thule,Thule Motion 3 XXL Low,232,92,37,480,25,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-motion-3-xxl-low-_-639500,high
+Thule,Thule Motion XT Alpine,232,95,35,450,25,75,https://www.merkau.de/motion-xt.html,medium
+Thule,Thule Motion XT L,195,89,44,450,20,75,https://www.merkau.de/motion-xt.html,medium
+Thule,Thule Motion XT M,175,86.5,46,400,17.5,75,https://www.kfzparts24.de/de/i262644/thule-dachbox-motion-xt-m,medium
+Thule,Thule Motion XT Sport,189,67.5,43,300,16,75,https://www.merkau.de/motion-xt.html,medium
+Thule,Thule Motion XT XL,215,91.5,44,500,23.5,75,https://www.zumoo.de/THULE-Dachbox-Motion-XT-XL,medium
+Thule,Thule Motion XT XXL,232,95,47,610,25.5,75,https://www.zumoo.de/THULE-Dachbox-Motion-XT-XXL,medium
+Thule,Thule Ocean 100,139,90.5,39,360,12,50,https://www.sharely.ch/de/mieten/thule-ocean-100-dachbox,medium
+Thule,Thule Ocean 200,175,82,45,450,14,50,https://northwesttowbars.co.uk/thule-ocean-200-roof-box,medium
+Thule,Thule Ocean 600,190,63,37,330,14,50,https://www.car-roofracks.co.uk/product/thule-ocean-600,medium
+Thule,Thule Ocean 780,196,78,45,420,15,50,https://dachboxvermietung.com/unsere-dachboxen-und-traeger/thule-ocean-780/,medium
+Thule,Thule Ocean 80,133,86,37,320,10,50,https://www.jeep-eisner.at/teile-zubehoer/teile-zubehoer-angebote/teile/thule-dachbox-ocean-80-13069.html,medium
+Thule,Thule Pulse 2 L,194,84,39,450,18.7,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-pulse-2-l-_-610700,high
+Thule,Thule Pulse 2 M,175,81,42,400,16,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-pulse-2-m-_-610200,high
+Thule,Thule Pulse 2 XL,215,87,40,500,20.2,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-pulse-2-xl-_-610800,high
+Thule,Thule Touring Alpine (700),232,70,42,430,15,50,https://www.zumoo.de/THULE-Dachbox-Touring-700,medium
+Thule,Thule Touring L (780),196,78,43,420,15,50,https://www.autoteiledirekt.de/thule-13657272.html,medium
+Thule,Thule Touring M (200),175,82,45,400,13,50,https://www.autodoc.de/thule/13657267,medium
+Thule,Thule Touring S (100),139,90,40,330,10,50,https://www.autodoc.de/thule/13657265,medium
+Thule,Thule Touring Sport (600),190,63,39,300,12,50,https://www.autodoc.de/thule/13657268,medium
+Thule,Thule Vector Alpine,228,88.5,32,380,30,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-vector-alpine-_-613500,high
+Thule,Thule Vector L,231.5,88.5,35.5,430,30,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-vector-l-_-613700,high
+Thule,Thule Vector M,212,88,33,360,29,75,https://www.thule.com/de-de/cargo-carrier/car-top-carrier/thule-vector-m-_-613200,high
+Yakima,Yakima CBX LG,210.8,96.5,38.1,453,25.9,,https://yakima.com/products/cbx-16,high
+Yakima,Yakima CBX XXL,231.1,96.5,43.2,510,29.5,,https://yakima.com/products/cbx-18,high
+Yakima,Yakima SkyBox NX LG,191.8,88.9,40.6,453,21.3,,https://yakima.com/products/skybox-nx-lg,high
+Yakima,Yakima SkyBox NX XL,213.4,91.4,41.9,510,24.0,,https://yakima.com/products/skybox-nx-xl,high
+Yakima,Yakima SkyTour 310,190,67,36,310,16,75,https://www.escape4x4.de/dachbox-yakima-skytour-310l-e22879.htm,medium
+Yakima,Yakima SkyTour 420,205,84,36,420,25,75,https://www.escape4x4.de/dachbox-yakima-skytour-420l-e22877.htm,medium

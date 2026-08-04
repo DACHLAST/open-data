@@ -1,0 +1,333 @@
+{
+ "name": "dachlast-open-data",
+ "title": "Dachlast Open Data: Dachzelte, Dachboxen, Dachtraeger, Fahrzeugmarkisen",
+ "description": "Vier Datensaetze zum deutschen Markt fuer Dachaufbauten mit Quell-URL je Zeile. Erhoben von dachlast.de.",
+ "homepage": "https://dachlast.de/daten/",
+ "version": "2026.08.02",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "Creative Commons Attribution 4.0"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "dachlast.de",
+   "path": "https://dachlast.de/",
+   "role": "author"
+  }
+ ],
+ "keywords": [
+  "Dachlast",
+  "Dachzelt",
+  "Dachbox",
+  "Dachtraeger",
+  "Markise",
+  "roof load",
+  "roof tent",
+  "open data"
+ ],
+ "resources": [
+  {
+   "name": "dachboxen",
+   "path": "data/dachboxen.csv",
+   "title": "Dachboxen am deutschen Markt",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "marke",
+      "type": "any"
+     },
+     {
+      "name": "name",
+      "type": "any"
+     },
+     {
+      "name": "laenge_cm",
+      "type": "any"
+     },
+     {
+      "name": "breite_cm",
+      "type": "any"
+     },
+     {
+      "name": "hoehe_cm",
+      "type": "any"
+     },
+     {
+      "name": "volumen_l",
+      "type": "any"
+     },
+     {
+      "name": "gewicht_kg",
+      "type": "any"
+     },
+     {
+      "name": "max_zuladung_kg",
+      "type": "any"
+     },
+     {
+      "name": "quelle",
+      "type": "any"
+     },
+     {
+      "name": "confidence",
+      "type": "any"
+     }
+    ]
+   },
+   "rowCount": 157,
+   "sources": [
+    {
+     "title": "dachlast.de – Offene Daten",
+     "path": "https://dachlast.de/daten/"
+    }
+   ]
+  },
+  {
+   "name": "dachtraeger",
+   "path": "data/dachtraeger.csv",
+   "title": "Dachtraeger und Dachplattformen im DACH-Markt",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "hersteller",
+      "type": "any"
+     },
+     {
+      "name": "modell",
+      "type": "any"
+     },
+     {
+      "name": "typ",
+      "type": "any"
+     },
+     {
+      "name": "segment",
+      "type": "any"
+     },
+     {
+      "name": "land",
+      "type": "any"
+     },
+     {
+      "name": "montagearten",
+      "type": "any"
+     },
+     {
+      "name": "laenge_cm",
+      "type": "any"
+     },
+     {
+      "name": "breite_cm",
+      "type": "any"
+     },
+     {
+      "name": "eigengewicht_kg",
+      "type": "any"
+     },
+     {
+      "name": "traglast_dyn_kg",
+      "type": "any"
+     },
+     {
+      "name": "traglast_dyn_pro_traeger_kg",
+      "type": "any"
+     },
+     {
+      "name": "traglast_stat_kg",
+      "type": "any"
+     },
+     {
+      "name": "preis_eur",
+      "type": "any"
+     },
+     {
+      "name": "url",
+      "type": "any"
+     },
+     {
+      "name": "traglast_quelle",
+      "type": "any"
+     },
+     {
+      "name": "traglast_konfidenz",
+      "type": "any"
+     },
+     {
+      "name": "traglast_notiz",
+      "type": "any"
+     },
+     {
+      "name": "quelle",
+      "type": "any"
+     }
+    ]
+   },
+   "rowCount": 191,
+   "sources": [
+    {
+     "title": "dachlast.de – Offene Daten",
+     "path": "https://dachlast.de/daten/"
+    }
+   ]
+  },
+  {
+   "name": "dachzelte",
+   "path": "data/dachzelte.csv",
+   "title": "Dachzelte am deutschen Markt",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "marke",
+      "type": "any"
+     },
+     {
+      "name": "name",
+      "type": "any"
+     },
+     {
+      "name": "typ",
+      "type": "any"
+     },
+     {
+      "name": "liege_l_cm",
+      "type": "any"
+     },
+     {
+      "name": "liege_b_cm",
+      "type": "any"
+     },
+     {
+      "name": "packhoehe_cm",
+      "type": "any"
+     },
+     {
+      "name": "gewicht_kg",
+      "type": "any"
+     },
+     {
+      "name": "quelle",
+      "type": "any"
+     },
+     {
+      "name": "quelle_typ",
+      "type": "any"
+     }
+    ]
+   },
+   "rowCount": 646,
+   "sources": [
+    {
+     "title": "dachlast.de – Offene Daten",
+     "path": "https://dachlast.de/daten/"
+    }
+   ]
+  },
+  {
+   "name": "markisen",
+   "path": "data/markisen.csv",
+   "title": "Fahrzeugmarkisen im DACH-Markt",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "schema": {
+    "fields": [
+     {
+      "name": "hersteller",
+      "type": "any"
+     },
+     {
+      "name": "modell",
+      "type": "any"
+     },
+     {
+      "name": "typ",
+      "type": "any"
+     },
+     {
+      "name": "segment",
+      "type": "any"
+     },
+     {
+      "name": "land",
+      "type": "any"
+     },
+     {
+      "name": "laenge_cm",
+      "type": "any"
+     },
+     {
+      "name": "auslage_cm",
+      "type": "any"
+     },
+     {
+      "name": "gewicht_kg",
+      "type": "any"
+     },
+     {
+      "name": "preis_eur",
+      "type": "any"
+     },
+     {
+      "name": "montagebasis",
+      "type": "any"
+     },
+     {
+      "name": "zaehlt_zur_dachlast",
+      "type": "any"
+     },
+     {
+      "name": "regel",
+      "type": "any"
+     },
+     {
+      "name": "fahrzeugtyp",
+      "type": "any"
+     },
+     {
+      "name": "fahrzeug_beispiele",
+      "type": "any"
+     },
+     {
+      "name": "passform_hinweis",
+      "type": "any"
+     },
+     {
+      "name": "antrieb",
+      "type": "any"
+     },
+     {
+      "name": "montage",
+      "type": "any"
+     },
+     {
+      "name": "url",
+      "type": "any"
+     },
+     {
+      "name": "quelle",
+      "type": "any"
+     }
+    ]
+   },
+   "rowCount": 272,
+   "sources": [
+    {
+     "title": "dachlast.de – Offene Daten",
+     "path": "https://dachlast.de/daten/"
+    }
+   ]
+  }
+ ]
+}

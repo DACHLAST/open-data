@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Dachlast Open Data: Dachzelte, Dachboxen, Dachtraeger und Fahrzeugmarkisen"
+message: "Wenn Sie diese Daten verwenden, zitieren Sie bitte wie unten angegeben."
+type: dataset
+authors:
+  - name: "dachlast.de"
+    website: "https://dachlast.de/"
+url: "https://dachlast.de/daten/"
+license: CC-BY-4.0
+date-released: 2026-08-02
+keywords:
+  - Dachlast
+  - Dachzelt
+  - Dachbox
+  - Dachtraeger
+  - Fahrzeugmarkise
+  - roof load
+  - roof tent
+  - open data
